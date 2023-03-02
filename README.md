@@ -17,3 +17,4 @@ to set up the react app with the node modules and the package lock jsons.
 
 7. You can also check the console log to see if the app is running on the backend 
 8. A lot of this app was built using ChatGPT so please refer to chatGPT chats for help. 
+9. The backend node and fetch server for the API calls is stored in the index.js file for the backend. 
